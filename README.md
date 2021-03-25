@@ -15,7 +15,7 @@ Taches a accomplir:
 - [ ] Création des taches pour chaque partie
 - [ ] ...
 
-[![Etape](https://i.ibb.co/pbhwXFM/2021-03-19-17-21-52.png)](https://i.ibb.co/pbhwXFM/2021-03-19-17-21-52.png)
+[![Etape](https://i.ibb.co/3CxyGGK/2021-03-25-10-57-49.png)](https://i.ibb.co/3CxyGGK/2021-03-25-10-57-49.png)
 
 Commande par defaut:
 - _git cherry-pick ID_ (recuperer un commit en particulier)
